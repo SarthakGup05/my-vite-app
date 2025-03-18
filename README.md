@@ -4,6 +4,12 @@ A beautiful React application that generates random quotes with dynamic backgrou
 
 ![Quote Generator Preview](public\preview.png)
 
+## 🌍 Live Demo
+
+Experience the app live: [Quote Generator Demo](https://my-vite-app-coral.vercel.app/)
+
+Try it out now and generate your own inspiring quotes!
+
 ## 🌟 Features
 
 - **Random Quote Generation**: Fetches inspiring quotes from an external API
