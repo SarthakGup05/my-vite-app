@@ -2,7 +2,7 @@
 
 A beautiful React application that generates random quotes with dynamic backgrounds. Built with React, Vite, and Tailwind CSS.
 
-![Quote Generator Preview](preview.png)
+![Quote Generator Preview](public\preview.png)
 
 ## 🌟 Features
 
